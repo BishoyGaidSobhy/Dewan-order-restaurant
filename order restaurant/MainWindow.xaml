@@ -1,0 +1,45 @@
+﻿<Window x:Class="order_restaurant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:order_restaurant"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="795">
+    <Grid Margin="27,4,10,12" Loaded="Grid_Loaded">
+        <TextBox x:Name="CustomerNameText" HorizontalAlignment="Left" Margin="122,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123" Height="22" RenderTransformOrigin="0.528,0.275"/>
+        <Label x:Name="CustomerName_Copy" Content="Date : " HorizontalAlignment="Left" Margin="441,35,0,0" VerticalAlignment="Top" Width="60" RenderTransformOrigin="1.067,0.387"/>
+        <DatePicker x:Name="DateTimeOrder" HorizontalAlignment="Left" Margin="498,35,0,0" VerticalAlignment="Top" Text="" Width="213" Height="25"/>
+        <Button x:Name="btn_GeneratRecipt" Content="Add to Grid" HorizontalAlignment="Left" Margin="528,128,0,0" VerticalAlignment="Top" Width="131" Height="43" Click="btn_GeneratRecipt_Click"/>
+        <Label x:Name="lbl_TotalPrice" Content="Order TotalPrice&#xD;&#xA;" HorizontalAlignment="Left" Margin="44,363,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="ItemText" HorizontalAlignment="Left" Margin="122,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <Label x:Name="CustomerName" Content="Customer Name :" HorizontalAlignment="Left" Margin="20,32,0,0" VerticalAlignment="Top" Width="111" RenderTransformOrigin="1.113,10.992">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="Qty" Content="Qty :" HorizontalAlignment="Left" Margin="249,69,0,0" VerticalAlignment="Top" Width="110"/>
+        <TextBox x:Name="QtyText" HorizontalAlignment="Left" Margin="290,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="123" Height="22" RenderTransformOrigin="0.439,0.775"/>
+        <Label x:Name="PricePerItem" Content="PricePerItem :" HorizontalAlignment="Left" Margin="441,70,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.318,0.387"/>
+        <TextBox x:Name="PricePerItemText" HorizontalAlignment="Left" Margin="532,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <DataGrid x:Name="Order" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="44,191,52,69">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="item" Header="item" Binding="{Binding ItemName, Mode=OneWay}"/>
+                <DataGridTextColumn x:Name="Price" Header="PricePerItem" Binding="{Binding Price, Mode=OneWay}"/>
+                <DataGridTextColumn x:Name="Qty1" Header="Qty" Binding="{Binding Qty, Mode=OneWay}"/>
+                <DataGridTextColumn x:Name="Total" Header="TotalPrice" Binding="{Binding TotalPrice, Mode=OneWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="Qty_Copy" Content="Item Name :" HorizontalAlignment="Left" Margin="20,70,0,0" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="GetOrder" Content="GetOrder" HorizontalAlignment="Left" Margin="528,363,0,0" VerticalAlignment="Top" Width="124" Click="GetOrder_Click" Height="45"/>
+        <Label x:Name="OrderTotalPriceText" Content="" HorizontalAlignment="Left" Margin="202,368,0,0" VerticalAlignment="Top" Width="142"/>
+
+    </Grid>
+
+
+</Window>

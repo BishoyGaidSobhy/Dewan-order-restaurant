@@ -1,0 +1,84 @@
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.exe
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.deps.json
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.runtimeconfig.json
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.AssemblyReference.cache
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.cache
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.lref
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.g.resources
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfoInputs.cache
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfo.cs
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\refint\order restaurant.dll
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.genruntimeconfig.cache
+C:\Users\Bishoy\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\ref\order restaurant.dll
+C:\Users\Walid\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.exe
+C:\Users\Walid\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.deps.json
+C:\Users\Walid\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.runtimeconfig.json
+C:\Users\Walid\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Walid\Desktop\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.cache
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.lref
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.g.resources
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfo.cs
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\refint\order restaurant.dll
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.genruntimeconfig.cache
+C:\Users\Walid\Desktop\order restaurant\order restaurant\obj\Debug\net6.0-windows\ref\order restaurant.dll
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.exe
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.deps.json
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.runtimeconfig.json
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.AssemblyReference.cache
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.cache
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.lref
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.g.resources
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfoInputs.cache
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfo.cs
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\refint\order restaurant.dll
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.genruntimeconfig.cache
+C:\Users\Bishoy\Desktop\The Task\order restaurant\order restaurant\obj\Debug\net6.0-windows\ref\order restaurant.dll
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.exe
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.deps.json
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.runtimeconfig.json
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\bin\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.AssemblyReference.cache
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.cache
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant_MarkupCompile.lref
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.g.resources
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfoInputs.cache
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.AssemblyInfo.cs
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.dll
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\refint\order restaurant.dll
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.pdb
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\order restaurant.genruntimeconfig.cache
+C:\Users\Bishoy\Desktop\Dewan_order restaurant\order restaurant\obj\Debug\net6.0-windows\ref\order restaurant.dll
